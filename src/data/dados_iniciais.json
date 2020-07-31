@@ -1,0 +1,148 @@
+{
+  "categorias": [
+    {
+      "titulo": "Power B.I",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#ffd700",
+      "link_extra": {
+        "text": "Curso Básico de Power B.I",
+        "url": "https://planilheiros.com.br/category/curso-basico-de-power-bi/"
+      },
+      "videos": [
+        {
+          "titulo": "Curso de Power B.I - Introdução ",
+          "url": "https://www.youtube.com/watch?v=merUYMASzWw"
+        },
+        {
+          "titulo": "Aula 01",
+          "url": "https://www.youtube.com/watch?v=lFdva6LcTAY&list=PLWfPHxJoa7zut9rfJQadu9KycCSb3XPRF&index=1"
+        },
+        {
+          "titulo": "Aula 02",
+          "url": "https://www.youtube.com/watch?v=B8lJd_3XH-c&list=PLWfPHxJoa7zut9rfJQadu9KycCSb3XPRF&index=3"
+        },
+        {
+          "titulo": "Aula 03",
+          "url": "https://www.youtube.com/watch?v=gGoyMm8EUWM&list=PLWfPHxJoa7zut9rfJQadu9KycCSb3XPRF&index=4"
+        },
+        {
+          "titulo": "Aula 04",
+          "url": "https://www.youtube.com/watch?v=h93MAg4_sOk&list=PLWfPHxJoa7zut9rfJQadu9KycCSb3XPRF&index=5"
+        },
+        {
+          "titulo": "Aula 05",
+          "url": "https://www.youtube.com/watch?v=Xg1xXvIKlVk&list=PLWfPHxJoa7zut9rfJQadu9KycCSb3XPRF&index=6"
+        },
+        {
+          "titulo": "Case Final",
+          "url": "https://www.youtube.com/watch?v=7Re1YF6KdS0&list=PLWfPHxJoa7zut9rfJQadu9KycCSb3XPRF&index=7"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }        
+      ]
+    },{
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "O que é Machine Leaning?",
+          "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk"
+        },
+        {
+          "titulo": "O que é Deep Learning?",
+          "url": "https://www.youtube.com/watch?v=kryIBKPVZ7A&list=PLh2Y_pKOa4Udq6kx9Y_jFbLG9tpYrIKJ5&index=3"
+        },
+               {
+          "titulo":"O que é Python",
+          "url": "https://www.youtube.com/watch?v=-LATVnPcvHI&list=PLh2Y_pKOa4Udq6kx9Y_jFbLG9tpYrIKJ5&index=8"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo":"Primeira Aula Prática de Data Science",
+          "url":"https://www.youtube.com/watch?v=F608hzn_ygo&list=PLh2Y_pKOa4Udq6kx9Y_jFbLG9tpYrIKJ5&index=9"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    },    
+    {
+      "titulo": "Learning 365",
+      "cor": "#4169e1",
+      "link_extra": {
+        "text": "Treinamentos na Learning 365",
+        "url": "https://www.learning365.com.br/treinamentos/"
+      },
+      "videos": [
+        {
+          "titulo": "Criando App com Power Apps",
+          "url": "https://www.youtube.com/watch?v=Uq7unDaOWgo&list=PLcW6Scaz1qTGh93oKvY9HgkbqgmxOIYIs&index=1"
+        },
+        {
+          "titulo": "Microsoft Flow",
+          "url": "https://www.youtube.com/watch?v=9eE7UIaFhns&list=PLcW6Scaz1qTGh93oKvY9HgkbqgmxOIYIs&index=6"
+        },
+        {
+          "titulo": "Self Service BI no Microsoft Excel",
+          "url": "https://www.youtube.com/watch?v=ZWbIBjNGdQ4&list=PLcW6Scaz1qTGh93oKvY9HgkbqgmxOIYIs&index=17"
+        },
+        {
+          "titulo": "O Que posso fazer com o Power BI Gratuito?",
+          "url": "https://www.youtube.com/watch?v=0-JIvQXQQHM&list=PLcW6Scaz1qTGh93oKvY9HgkbqgmxOIYIs&index=9"
+        }, 
+        {
+          "titulo": "Dashboards no Excel",
+          "url": "https://www.youtube.com/watch?v=9qQTpFo37SQ&list=PLcW6Scaz1qTGh93oKvY9HgkbqgmxOIYIs&index=4"
+        }
+      ]
+    }    
+  ]
+}
